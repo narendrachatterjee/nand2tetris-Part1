@@ -8,7 +8,19 @@ This is a repository for Logic Gate Simulation
 <b>Or Gate</b>:<br>
   &nbsp;&nbsp;Logic Gate Preview :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/8d436fd7-d9ee-4b4f-8ca4-e078e31cec95)<br>
   &nbsp;&nbsp;Output :<br> &nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/a4ae0ddd-a46c-4ce6-a421-a1291d716fd5)
+<br><br>
+<b>And Gate</b>:<br>
+  &nbsp;&nbsp;Logic Gate Preview :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/ae4f9cb6-68aa-4e1f-81c9-2b9c620cd999)
+<br>
+  &nbsp;&nbsp;Output :<br> &nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/762e3b7a-2f6e-4620-bc53-c2c5bdd5cbe4)
+<br><br>
+<b>Xor Gate</b>:<br>
+  &nbsp;&nbsp;Logic Gate Preview :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/e25609fa-c06f-4ed7-b1c5-9820bab0372e)
+
+<br>
+  &nbsp;&nbsp;Output :<br> &nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/8be8a77c-a951-4795-89fe-a9f5d9135e1f)
 
 <br><br>
+
 
 
