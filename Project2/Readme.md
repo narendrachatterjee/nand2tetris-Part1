@@ -15,6 +15,13 @@ This is a repository for Logic Gate Simulation
 <br>
   &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/76188804-6ebd-4662-8eb4-aea024d3148f)
 <br><br>
+<b>Inc16</b>:<br>
+  &nbsp;&nbsp;Logic Gate Preview :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/7bd17f22-6216-4db5-a4f9-1bebe1e498b3)
+<br>
+  &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/f2581786-d57b-4787-b091-21eeb096aade)
+<br><br>
+
+
 
 
 
