@@ -16,3 +16,11 @@ This is a repository for Logic Gate Simulation
 <br>
   &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/8a09d1bd-819b-4a13-8706-bd9d488bd5b3)
 <br><br>
+<b>RAM 8bit</b>:<br>
+  &nbsp;&nbsp;Logic Gate Preview :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/05d12b97-09df-42e4-9d68-1bfe7506d468)
+<br>
+  &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/6e769c63-c5b6-4808-b761-3603498f055d)
+<br><br>
+
+
+
