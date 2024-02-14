@@ -1,4 +1,4 @@
-![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/56152f87-a25f-4beb-b567-ae9eec03e560)# nand2tetris-Part3
+# nand2tetris-Part3
 This is a repository for Logic Gate Simulation
 <br><br>
 <b>Bit Circuit</b>:<br>
