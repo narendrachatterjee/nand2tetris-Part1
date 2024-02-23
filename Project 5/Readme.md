@@ -15,3 +15,6 @@ This is a repository for Logic Gate Simulation
 <br>
   &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/a20bfba6-1cc2-4056-8b91-4f8a15939a6e)
 <br><br>
+<b>Computer - Draw Rectangle</b>:<br>
+  &nbsp;&nbsp;Output :<br>&nbsp;&nbsp;&nbsp;![image](https://github.com/narendrachatterjee/nand2tetris-Part1/assets/48941364/e8aba984-583c-4a12-a427-2914a924ffa8)
+<br><br>
